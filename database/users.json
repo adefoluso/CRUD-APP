@@ -1,0 +1,22 @@
+[
+    {
+        "id": 71,
+        "organization": "updated Hq ENGLAND",
+        "createdAt": "2022-03-30T09:40:19.577Z",
+        "products": [
+            "developers",
+            "pizza",
+            "garri"
+        ],
+        "marketValue": "90%",
+        "address": "sangotedo",
+        "ceo": "cn",
+        "country": "Taiwan",
+        "noOfEmployees": 2,
+        "employees": [
+            "james bond",
+            "jackie chan",
+            "Folskyjoe"
+        ]
+    }
+]
